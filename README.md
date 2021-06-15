@@ -9,8 +9,6 @@
 > 
 > Now, I am `Front-End Developer` working in start up company.
 > 
-> I had been worked as `patent attorney`(for 5 years) and `run start up` company(2.5 years).
-> 
 > I am `passionate` person and feel happy to be together with those who have passionate people.
 
 
