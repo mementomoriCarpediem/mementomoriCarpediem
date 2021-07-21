@@ -9,7 +9,7 @@
 > 
 > Now, I am `Front-End Developer` working in start up company.
 > 
-> I am `passionate` person and feel happy to be together with those who have passionate people.
+> I am `passionate` person and feel happy to be with those who have passionate people.
 
 
 <!-- - 🔭 I’m currently working on ...
