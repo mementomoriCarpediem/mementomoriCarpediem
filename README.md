@@ -4,7 +4,11 @@
 > I live in South Korea.
 >
 > I love to make things, especially which can help out community and world.
+>
+> 👨‍💼 Former Start Up CEO
 > 
+> 💡 Patent Attorney
+---
 > I define developer as `21c carpenter`.
 > 
 > Now, I am `Front-End Developer` working in start up company.
