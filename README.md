@@ -3,7 +3,7 @@
 
 > I live in South Korea.
 >
-> I love to make things, especially which can help out community and world.
+> I love to make things, especially which can help out people and world.
 >
 > 👨‍💼 Former Start Up CEO
 > 
