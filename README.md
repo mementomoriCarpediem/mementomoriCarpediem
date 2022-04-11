@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Park%20Junghyun&fontSize=50)
 ### 🖐 Hi Welcome to my page.
 
-> Life is so beautiful~!
->
 > I love to make things, especially which can help out people and world.
 >
 > 👨‍💼 Former Start Up CEO
