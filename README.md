@@ -9,7 +9,7 @@
 ---
 > I define developer as `21c carpenter`.
 > 
-> Now, I am `Front-End Developer` working in start up company.
+> Now, I am `Full Stack Developer` working in start up company.
 > 
 > I am `passionate` person and feel happy to be with passionate people.
 
